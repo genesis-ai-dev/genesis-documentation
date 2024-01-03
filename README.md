@@ -13,3 +13,7 @@ In Project Accelerate, several implementing partners are working together to dev
 
 
 <figure><img src=".gitbook/assets/project-accelerate.png" alt=""><figcaption><p>Project Accelerate: building the Translator's Copilot in the Codex App</p></figcaption></figure>
+
+### Development Priorities
+
+View our current [roadmap.md](project-overview/roadmap.md "mention") (subject to change!).

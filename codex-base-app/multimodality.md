@@ -12,7 +12,7 @@ See [SIL Transcriber](https://software.sil.org/siltranscriber/) app
 
 [Audio editing plugin](https://marketplace.visualstudio.com/items?itemName=chocolate-pie.sound-editor\&ssr=false#overview) (though double check license, and it’s not super functional at this point.)
 
-![Screenshot 2023-12-20 at 8.08.17 AM.png](blob:https://app.gitbook.com/418f3b3f-84e3-44a7-a319-c2a4dbe0ca00)
+![Screenshot 2023-12-20 at 8.08.17 AM.png](<../.gitbook/assets/Screenshot 2023-12-20 at 8.08.17 AM.png>)
 
 We should explore how we might integrate AVTT software into VS Code as rendered components.&#x20;
 

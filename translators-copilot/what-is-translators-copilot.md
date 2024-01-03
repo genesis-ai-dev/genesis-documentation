@@ -21,7 +21,7 @@ The basic structure of a translation loop involves 1) forward translation ([tran
 
 The greatest obstacles to overcome are i) language-specific [tokenization](https://ryder.dev/tokenizing-low-resource-languages/) (whether using phonic or graphic input channels) and ii) seed data. Seed data is critical because AI cannot translate something that has not been translated before.
 
-### Contraints
+### Constraints
 
 *   You cannot translate a word that has never been translated before. This constraint implies that
 
