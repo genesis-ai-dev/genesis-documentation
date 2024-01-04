@@ -1,7 +1,5 @@
 # Custom Notebooks
 
-When it comes to how we display&#x20;
-
 VS Code has an API for custom notebooks. A notebook mixes together embedded code editors (i.e., Monaco code editors) as executable cells with output fields. There are also Markdown cells that can be edited and rendered.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-01-04 at 3.04.03 PM.png" alt=""><figcaption><p>Custom notebooks might be a key solution for our use case</p></figcaption></figure>
