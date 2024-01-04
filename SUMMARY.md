@@ -20,6 +20,7 @@
 * [Extensions](codex-base-app/extensions/README.md)
   * [Rendered Views](codex-base-app/extensions/rendered-views.md)
   * [Language Servers](codex-base-app/extensions/language-servers.md)
+  * [Custom Notebooks](codex-base-app/extensions/custom-notebooks.md)
 * [The Editor](codex-base-app/the-editor.md)
 * [Multimodality](codex-base-app/multimodality.md)
 
