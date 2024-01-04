@@ -45,3 +45,7 @@
 * [Orchestration](translators-copilot/orchestration/README.md)
   * [Multi-Agent Simulations](translators-copilot/orchestration/multi-agent-simulations.md)
 * [Intelligent Functions Library](translators-copilot/intelligent-functions-library.md)
+
+## Development
+
+* [Experimental Repositories](development/experimental-repositories.md)
