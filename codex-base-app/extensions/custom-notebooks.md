@@ -1,5 +1,7 @@
 # Custom Notebooks
 
+### How We Can Leverage Notebooks as a Scripture Editor
+
 VS Code has an API for custom notebooks. A notebook mixes together embedded code editors (i.e., Monaco code editors) as executable cells with output fields. There are also Markdown cells that can be edited and rendered.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-01-04 at 3.04.03 PM.png" alt=""><figcaption><p>Custom notebooks might be a key solution for our use case</p></figcaption></figure>
@@ -19,5 +21,13 @@ With some modification of the default display conventions for notebooks to make 
 5. User then reviews the evaluation and, when satisfied with the draft, adds a 'new translation unit' cell or a 'new paratextual information unit' cell (for adding additional titles, headlines, footnotes, accompanying images, etc.
 
 I believe that using custom notebooks provides us with a way to handle many of the potential issues that arise through strict reliance on the native VS Code editor alone (since it doesn't look enough like Microsoft Word) or else on rendered WYSIWYG editors alone (since they don't have the same off-the-shelf functionality of the VS Code editor). This proposed approach may enable us to avoid many of the tradeoffs of other approaches, since notebooks inherently combine the best features from both other options.
+
+### Links and Resources
+
+[VS Code Notebook API reference](https://code.visualstudio.com/api/extension-guides/notebook)
+
+[Sample custom notebook with a React wrapper](https://github.com/microsoft/vscode-extension-samples/tree/main/notebook-renderer-react-sample)
+
+[Deepdive video walkthrough of the Notebook API](https://learn.microsoft.com/en-us/shows/vs-code-livestreams/notebooks-deep-dive)
 
 [^1]: 
