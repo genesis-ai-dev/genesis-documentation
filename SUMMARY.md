@@ -44,6 +44,7 @@
     * [Linguistic Anomaly Detection (LAD)](translators-copilot/translation-assistance/quality-checking/linguistic-anomaly-detection-lad.md)
   * [Back Translation](translators-copilot/translation-assistance/back-translation.md)
 * [Orchestration](translators-copilot/orchestration/README.md)
+  * [Translation Memory](translators-copilot/orchestration/translation-memory.md)
   * [Multi-Agent Simulations](translators-copilot/orchestration/multi-agent-simulations.md)
 * [Intelligent Functions Library](translators-copilot/intelligent-functions-library.md)
 
