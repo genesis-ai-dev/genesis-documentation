@@ -11,6 +11,7 @@
 * [Steering Committee](project-overview/steering-committee.md)
 * [Architecture](project-overview/architecture.md)
 * [Frequently Asked Questions](project-overview/frequently-asked-questions.md)
+* [Translator Requirements](project-overview/translator-requirements.md)
 * [Roadmap](project-overview/roadmap.md)
 
 ## Codex Base App
