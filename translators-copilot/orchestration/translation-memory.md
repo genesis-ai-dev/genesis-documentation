@@ -20,3 +20,5 @@ In order to leverage translation memory effectively for in-context learning, we 
 10. Application of an agent over a db [https://x.com/hrishioa/status/1733804354547966234?s=46](https://x.com/hrishioa/status/1733804354547966234?s=46)
 11. Use “this is the most relevant sentence in the context:” for better RAG [https://x.com/helloiamleonie/status/1732676100495421537?s=46](https://x.com/helloiamleonie/status/1732676100495421537?s=46)
 12. Rewrite user query for RAG with local LLM [https://x.com/langchainai/status/1731724086072779109?s=46](https://x.com/langchainai/status/1731724086072779109?s=46)
+
+Interesting early discussion about [stateful bots](https://www.abrahamberg.com/blog/how-to-make-openai-stateful-text-generator-like-chatgpt-for-conversations/).
