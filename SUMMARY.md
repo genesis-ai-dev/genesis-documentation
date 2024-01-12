@@ -29,6 +29,7 @@
 
 * [What is Translator's Copilot?](translators-copilot/what-is-translators-copilot.md)
 * [Information Management](translators-copilot/information-management/README.md)
+  * [Resource Indexing](translators-copilot/information-management/resource-indexing.md)
   * [Greek/Hebrew Insights](translators-copilot/information-management/greek-hebrew-insights.md)
   * [Chat with Resources](translators-copilot/information-management/chat-with-resources.md)
   * [Project-Based Insights](translators-copilot/information-management/project-based-insights.md)
